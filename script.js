@@ -1,6 +1,5 @@
 
-
-
+// another method
 // const increment= () => {
 //     let count = parseInt(counterDisplay.innerText)
 //     count = count+1
